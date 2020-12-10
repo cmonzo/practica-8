@@ -75,3 +75,10 @@ section.marzo th{
 section.marzo caption{
     text-align: left;
 }
+p.pie{
+    text-align: center;
+}
+footer{
+    background-color: white;
+    border: black 2px solid;
+}
